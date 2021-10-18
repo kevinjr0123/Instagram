@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Instagram; creating user walkthrough gif](https://user-images.githubusercontent.com/81383919/137781078-c2b26776-029e-46b8-9f53-ae6eb73f0249.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
